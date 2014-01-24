@@ -6,6 +6,25 @@ There’s nothing secret in there and as a developer I thought it may be useful 
 
 This is a Wiki build using [Gollum](https://github.com/gollum/gollum) written in [Markdown](http://en.wikipedia.org/wiki/Markdown).
 
-## License
+## Installation
+```
+$ git clone https://github.com/jpsirois/references-development.git
+$ cd references-development
+$ bundle install
+```
 
+## Usage
+```
+$ gollum
+```
+
+There’s also a nice live-preview option to gollum for editing you can use by launching it like this:
+```
+$ gollum --live-preview
+```
+
+Once launched your Git powered Wiki is running at `http://0.0.0.0:4567/` with [Puma](https://github.com/puma/puma).
+
+
+## License
 © 2014 licensed under a [MIT license](http://jpsirois.mit-license.org/license.html).
