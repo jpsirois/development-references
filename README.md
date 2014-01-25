@@ -25,6 +25,8 @@ $ gollum --live-preview
 
 Once launched your Git powered Wiki is running at `http://0.0.0.0:4567/` with [Puma](https://github.com/puma/puma).
 
+## Why Gollum
+I decided to use directly use the Gollum engine instead of built-in version in GitHub to be able to enjoy more all the features provided by GitHub, issues refecencing in commit, inline comments, pull-request, fork, better Git history stats, etc…
 
 ## License
 © 2014 licensed under a [MIT license](http://jpsirois.mit-license.org/license.html).
