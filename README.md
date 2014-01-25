@@ -26,5 +26,30 @@ There’s nothing secret in there and as a developer I thought it may be useful 
 * Uptime tracking: [Node uptime](http://redotheweb.com/uptime/) (free self-hosted on [Heroku](https://www.heroku.com/))
 * Monitoring: [Cabot](http://cabotapp.com/) ???
 
+## Guardfile files using [guard-shell](https://github.com/guard/guard-shell) & [terminal-notifier](https://github.com/alloy/terminal-notifier)
+Using guard-shell allow more control. I used this for some quick and simple static websites or templates creation.
+
+```ruby
+guard 'shell' do
+  watch(/(^src\/haml\/(.+)\.haml)/) do |match|
+    puts match[0] + " changed at " + Time.now.strftime("%H:%M:%S") +". Re-generating HTML from HAML"
+    `haml #{match[1]} #{match[2]}.html`
+    `terminal-notifier -group 'haml' -title 'Regenerating Coffeescript' -message '#{match[0]}'`
+  end
+
+  watch(/(^src\/sass\/.+)/) do |match|
+    puts match[0] + " changed at " + Time.now.strftime("%H:%M:%S") +". Re-generating CSS from SASS."
+    `Compass compile`
+    `terminal-notifier -group 'compass' -title 'Regenerating Compass' -message '#{match[0]}'`
+  end
+
+  watch(/(^src\/coffeescript\/.+)/) do |match|
+    puts match[0] + " changed at " + Time.now.strftime("%H:%M:%S") +". Re-generating JS from CoffeeScript"
+    `coffee -c -o assets/javascripts src/coffeescript`
+    `terminal-notifier -group 'coffeescript' -title 'Regenerating Coffeescript' -message '#{match[0]}'`
+  end
+end
+```
+
 ## License
 © 2014 licensed under a [MIT license](http://jpsirois.mit-license.org/license.html).
