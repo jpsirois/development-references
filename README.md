@@ -12,6 +12,9 @@ There’s nothing secret in there and as a developer I thought it may be useful 
 * [MacVim](https://github.com/b4winckler/macvim)
   * I highly recommande using [Vundle](https://github.com/gmarik/vundle) as a bundle manager. It’s based on git repository and work really well.
 
+## CSS
+* [Ultimate Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+
 ## Simple, Cheap & Efficient Development project management _(in-progress)_
 
 * VCS: [GitHub](https://github.com/features) (nothing to say)
