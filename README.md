@@ -64,7 +64,7 @@ end
 - Security: 🔒
 - Security breach: 🔓
 - Deploy: 🚀
-- Money: 💵
+- Money: 💵 or 💰
 - Credit Card: 💳
 - Mobile: 📱
 - Desktop: 💻
@@ -76,6 +76,10 @@ end
 - Date: 📅
 - Bug: 🐛 or 🐞
 - Link: 🔗
+- Image: 🎑 or 
+- Email: ✉️
+- Analytics or Chart: 📊 or 📈 or 📉
+- Package or Plugin: 📦
 
 ## License
 © 2014 licensed under a [MIT license](http://jpsirois.mit-license.org/license.html).
