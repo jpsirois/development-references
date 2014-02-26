@@ -55,7 +55,27 @@ end
 ```
 
 ## Git
-- [Emojis to shorten your git commit messages](https://gist.github.com/jpsirois/9238420)
+
+### Emojis to shorten your git commit messages
+- Fix: 🔧 or 🔨
+- Add: ➕ or +
+- Remove: ➖ or - or ❌
+- Split: ➗
+- Security: 🔒
+- Security breach: 🔓
+- Deploy: 🚀
+- Money: 💵
+- Credit Card: 💳
+- Mobile: 📱
+- Desktop: 💻
+- Audio: 🎵
+- Energy: 🔋
+- Search: 🔍
+- Time: ⌛️ or ⏰ or 🕒 
+- Reuse: ♻️
+- Date: 📅
+- Bug: 🐛 or 🐞
+- Link: 🔗
 
 ## License
 © 2014 licensed under a [MIT license](http://jpsirois.mit-license.org/license.html).
