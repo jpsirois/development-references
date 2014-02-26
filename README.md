@@ -77,7 +77,7 @@ end
 - Date: 📅
 - Bug: 🐛 or 🐞
 - Link: 🔗
-- Image: 🎑 or 🌅���
+- Image: 🎑 or 🌅
 - Email: ✉️
 - Analytics or Chart: 📊 or 📈 or 📉
 - Package or Plugin: 📦
