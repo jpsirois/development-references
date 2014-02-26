@@ -69,6 +69,7 @@ end
 - Mobile: 📱
 - Desktop: 💻
 - Audio: 🎵
+- Video: 🎥
 - Energy: 🔋
 - Search: 🔍
 - Time: ⌛️ or ⏰ or 🕒 
@@ -76,10 +77,12 @@ end
 - Date: 📅
 - Bug: 🐛 or 🐞
 - Link: 🔗
-- Image: 🎑 or 
+- Image: 🎑 or 🌅���
 - Email: ✉️
 - Analytics or Chart: 📊 or 📈 or 📉
 - Package or Plugin: 📦
+- Warning: 🚨
+- Clean: 🚿 or 🛁
 
 ## License
 © 2014 licensed under a [MIT license](http://jpsirois.mit-license.org/license.html).
