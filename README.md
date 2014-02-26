@@ -54,5 +54,8 @@ guard 'shell' do
 end
 ```
 
+## Git
+- [Emojis to shorten your git commit messages](https://gist.github.com/jpsirois/9238420)
+
 ## License
 © 2014 licensed under a [MIT license](http://jpsirois.mit-license.org/license.html).
