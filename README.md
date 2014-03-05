@@ -17,7 +17,7 @@ There’s nothing secret in there and as a developer I thought it may be useful 
 
 * [Always Clear Downloads](https://chrome.google.com/webstore/detail/always-clear-downloads/cpbmgiffkljiglnpdbljhlenaikojapc)
 * [Backbone Debugger](https://github.com/Maluen/Backbone-Debugger)
-* [Chromoji](https://chrome.google.com/webstore/detail/chromoji-emoji-for-google/cahedbegdkagmcjfolhdlechbkeaieki?hl=en-GB)
+* [Chromoji](https://chrome.google.com/webstore/detail/chromoji-emoji-for-google/cahedbegdkagmcjfolhdlechbkeaieki?hl=en-GB) (configure it at 1.25 size to have it similar to what Safari render)
 * [Ember Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en)
 * [Google Analytics Debugger](https://chrome.google.com/webstore/detail/google-analytics-debugger/jnkmfdileelhofjcijamephohjechhna?hl=en)
 * [jQuery Audit](https://github.com/zertosh/jquery-audit)
