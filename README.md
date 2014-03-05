@@ -10,7 +10,7 @@ There’s nothing secret in there and as a developer I thought it may be useful 
 * [iTerm2](http://www.iterm2.com/#/section/home)
 * [Sublime Text](http://www.sublimetext.com/)
 * [MacVim](https://github.com/b4winckler/macvim)
-  * I highly recommande using [Vundle](https://github.com/gmarik/vundle) as a bundle manager. It’s based on git repository and work really well.
+  * I highly recommand using [Vundle](https://github.com/gmarik/vundle) as a bundle manager. It’s based on git repository and work really well.
 
 
 ## Development Chrome Extensions I use
