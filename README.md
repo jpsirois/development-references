@@ -15,7 +15,6 @@ There’s nothing secret in there and as a developer I thought it may be useful 
 
 ## Development Chrome Extensions I use
 
-* [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)
 * [Always Clear Downloads](https://chrome.google.com/webstore/detail/always-clear-downloads/cpbmgiffkljiglnpdbljhlenaikojapc)
 * [Backbone Debugger](https://github.com/Maluen/Backbone-Debugger)
 * [Chromoji](https://chrome.google.com/webstore/detail/chromoji-emoji-for-google/cahedbegdkagmcjfolhdlechbkeaieki?hl=en-GB)
