@@ -15,19 +15,8 @@ There’s nothing secret in there and as a developer I thought it may be useful 
 ## CSS
 * [Ultimate Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 
-## Simple, Cheap & Efficient Development project management _(in-progress)_
-
-* VCS: [GitHub](https://github.com/features) (nothing to say)
-* Tasks & Issues: [GitHub Issues](https://github.com/blog/831-issues-2-0-the-next-generation) (free and powerful, fully-integrated in our workflow)
-  * Use [ghi](https://github.com/stephencelis/ghi) for easy command-line Issues operations  
-* Kanban boards: [ZenHub.io](http://www.zenhub.io) (free, integrated into GitHub with a Chrome extension)
-* Documentation: [GitHub Wiki](https://github.com/blog/774-git-powered-wikis-improved) (a free .git repos, added to project repos as sub-module for easy access)
-  * It is powered with [Gollum](https://github.com/gollum/gollum/wiki)
-* Team Chat: [HipChat](https://www.hipchat.com/) (free for 5 users)
-* Dashboard: [Dashing](http://shopify.github.io/dashing/) (if needed)
-* Error tracking: [Errbit](https://github.com/errbit/errbit) (free self-hosted on [Heroku](https://www.heroku.com/))
-* Uptime tracking: [Node uptime](http://redotheweb.com/uptime/) (free self-hosted on [Heroku](https://www.heroku.com/))
-* Monitoring: [Cabot](http://cabotapp.com/) ???
+## Web Developer Tools
+* [console.log wrapper](https://github.com/patik/console.log-wrapper)
 
 ## Guardfile files using [guard-shell](https://github.com/guard/guard-shell) & [terminal-notifier](https://github.com/alloy/terminal-notifier)
 Using guard-shell allow more control. I used this for some quick and simple static websites or templates creation.
@@ -53,6 +42,20 @@ guard 'shell' do
   end
 end
 ```
+
+## Simple, Cheap & Efficient Development project management _(in-progress)_
+
+* VCS: [GitHub](https://github.com/features) (nothing to say)
+* Tasks & Issues: [GitHub Issues](https://github.com/blog/831-issues-2-0-the-next-generation) (free and powerful, fully-integrated in our workflow)
+  * Use [ghi](https://github.com/stephencelis/ghi) for easy command-line Issues operations  
+* Kanban boards: [ZenHub.io](http://www.zenhub.io) (free, integrated into GitHub with a Chrome extension)
+* Documentation: [GitHub Wiki](https://github.com/blog/774-git-powered-wikis-improved) (a free .git repos, added to project repos as sub-module for easy access)
+  * It is powered with [Gollum](https://github.com/gollum/gollum/wiki)
+* Team Chat: [HipChat](https://www.hipchat.com/) (free for 5 users)
+* Dashboard: [Dashing](http://shopify.github.io/dashing/) (if needed)
+* Error tracking: [Errbit](https://github.com/errbit/errbit) (free self-hosted on [Heroku](https://www.heroku.com/))
+* Uptime tracking: [Node uptime](http://redotheweb.com/uptime/) (free self-hosted on [Heroku](https://www.heroku.com/))
+* Monitoring: [Cabot](http://cabotapp.com/) ???
 
 ## Git
 
