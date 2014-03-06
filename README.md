@@ -81,33 +81,33 @@ end
 ## Git
 
 ### Emojis to shorten your git commit messages
-- Fix: 🔧 or 🔨
-- Add: ➕ or +
-- Remove: ➖ or - or ❌
-- Split: ➗
-- Security: 🔒
-- Security breach: 🔓
-- Deploy: 🚀
-- Money: 💵 or 💰
-- Credit Card: 💳
-- Mobile: 📱
-- Desktop: 💻
-- Audio: 🎵
-- Video: 🎥
-- Energy: 🔋
-- Search: 🔍
-- Time: ⌛️ or ⏰ or 🕒 
-- Reuse: ♻️
-- Date: 📅
-- Bug: 🐛 or 🐞
-- Link: 🔗
-- Image: 🎑 or 🌅
-- Email: ✉️
-- Analytics or Chart: 📊 or 📈 or 📉
-- Package or Plugin: 📦
-- Warning: 🚨
-- Clean: 🚿 or 🛁
-- User: 👤
+* Fix: 🔧 or 🔨
+* Add: ➕ or +
+* Remove: ➖ or - or ❌
+* Split: ➗
+* Security: 🔒
+* Security breach: 🔓
+* Deploy: 🚀
+* Money: 💵 or 💰
+* Credit Card: 💳
+* Mobile: 📱
+* Desktop: 💻
+* Audio: 🎵
+* Video: 🎥
+* Energy: 🔋
+* Search: 🔍
+* Time: ⌛️ or ⏰ or 🕒 
+* Reuse: ♻️
+* Date: 📅
+* Bug: 🐛 or 🐞
+* Link: 🔗
+* Image: 🎑 or 🌅
+* Email: ✉️
+* Analytics or Chart: 📊 or 📈 or 📉
+* Package or Plugin: 📦
+* Warning: 🚨
+* Clean: 🚿 or 🛁
+* User: 👤
 
 ## License
 © 2014 licensed under a [MIT license](http://jpsirois.mit-license.org/license.html).
