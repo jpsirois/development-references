@@ -31,13 +31,19 @@ There’s nothing secret in there and as a developer I thought it may be useful 
 * [YSlow](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh)
 * [ZenHub for GitHub](https://www.zenhub.io/)
 
-
-
 ## CSS
 * [Ultimate Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 
 ## Web Developer Tools
 * [console.log wrapper](https://github.com/patik/console.log-wrapper)
+
+## Map & Geo Stuff
+* [GeoJSON](http://geojson.org/)
+* [TopoJSON](https://github.com/mbostock/topojson)
+* [leaflet](http://leafletjs.com/)
+* [$.geocomplete()](http://ubilabs.github.io/geocomplete/)
+* [gmaps.js](http://hpneo.github.io/gmaps/)
+
 
 ## Guardfile files using [guard-shell](https://github.com/guard/guard-shell) & [terminal-notifier](https://github.com/alloy/terminal-notifier)
 Using guard-shell allow more control. I used this for some quick and simple static websites or templates creation.
